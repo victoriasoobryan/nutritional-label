@@ -1,0 +1,64 @@
+#factlabel {
+    background-color: white;
+    border: 3px solid black;
+    padding: 3px;
+    width: 355px;
+}
+
+#factlabel td {
+    color: black;
+    font-family: 'Arial Black', 'Helvetica Bold',sans-serif;
+    font-size: 10pt;
+    padding: 0;
+}
+
+#factlabel td.header {
+    font-family: 'Arial Black', 'Helvetica Bold',sans-serif;
+    font-size: 28px;
+    white-space: nowrap;
+}
+
+#factlabel div.label {
+    float: left;
+    font-family: 'Arial Black', 'Helvetica Bold', sans-serif;
+}
+
+#factlabel div.serving {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    text-align: left;
+}
+
+#factlabel div.daily-value {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  text-align: right;
+}
+
+#factlabel div.weight {
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 1px;
+}
+
+#factlabel div.dv {
+    display: inline;
+    float: right;
+    font-family: 'Arial Black', 'Helvetica Bold', sans-serif;
+}
+
+#factlabel table.vitamins td {
+    font-family: Arial, Helvetica, sans-serif;
+    white-space: nowrap;
+    width: 33%;
+}
+
+#factlabel div.line {
+    border-top: 1px solid black;
+}
+
+#factlabel div.light {
+    float: left;
+    font-family:Arial, Helvetica, sans-serif;
+    text-indent: 10px;
+}
